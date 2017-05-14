@@ -1,15 +1,20 @@
+# TORRENTS TO BE UPLOADED BY 20 MAY 2017
+Setting up seedbox now.
+
 # What am I looking at?
 Not torrents of these files, but you will be soon.
 
 ## What's in these?
 
+__BEncylopedia-MegaLinks.md has Mega.nz links to the BEncyclopedia in different compression formats__
+
+__Dictionary-Style-MegaLinks.md has Mega,z links to the all the dictionary style files, including the BEncylcopedia, in different compression formats__
 
 ### BEncyclopedia.txt
   * A Large Encyclopedic, alphabetically-sorted Wordlist composed of the others in this folder, plus a few that aren't.
   * 1 GB Uncompressed
-  * Max 277 MB Compressed
-  * BEncyclopedia-LINK.txt a contains a Mega.nz link where the BEncyclopedia can be downloaded (torrents coming soon)
-  * Mega.nz link because you bothered to read this:[BEncyclopedia Mega.nz Link](https://mega.nz/#F!xSxiDbQJ!yV9y-__VS7XhGNOwuTrYSg)
+  * Max 299.8 MB Compressed
+  * BEncyclopedia-LINK.md a contains Mega.nz links where the BEncyclopedia can be downloaded (torrents coming soon)
   
 ### MainEnglishDictionary.txt
   * A Standard English Dictionary file, but with a ton of words.
@@ -24,24 +29,11 @@ Not torrents of these files, but you will be soon.
   * A pet project of mine I revisit now and again.
   * Includes topical wordlists such as types of dogs, beverages, geographical location, Mythical figures, esoterica, and more
   * I just find these fun - I've used them for Codenames, Drinking Games and randomization schemes.
-  
 
-### Compression Format Folders
-  * MainEnglishDictionary, IncludesNonEnglishDictionary and Misc_Wordlists are found compressed in these folders
-  * Compression format is the title of the folder
-  * __BEncylopedia is not found here.___ It can be found in the Dictionary-Style Whole Folder Download, or it's own folder.
-
- 
- ### Download the Whole Folder in a Given Compression Format
-  * Folder-Downloads-LINK.txt contains a Mega.nz link where the whole folder can be downloaded in various formats (torrents coming soon)
-  * 1.07 GB Uncompressed
-  * Max 294 MB Compressed
-  * Mega.nz link because you bothered to read this: [Whole Folder Mega.nz Links](https://mega.nz/#F!pa4AxCxT!OyyDZQXEsPDm5tLUh3SWZw)
-
-  Recommended Unarchivers:
-	Windows: 7Zip
-	Mac: Keka
-	Linux: Command Line, p7zip 
+#### Recommended Unarchivers:
+* Windows: 7Zip
+* Mac: Keka
+* Linux: Command Line, p7zip 
   
   
 ![Probable Wordlists Logo](https://raw.githubusercontent.com/berzerk0/Probable-Wordlists/master/ProbableWordlistLogo.png)
