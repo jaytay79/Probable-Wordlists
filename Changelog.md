@@ -48,3 +48,32 @@
 * Removed Rev 1.1 Tasklist
 * Released Rev 1.2!
 
+#### 17 June 2017
+* I added a bunch of Shout-Outs, since there was a huge spike in popularity after I posted this on hackernews. There were probably a dozen or so edits since the last edit to the changelog
+* All edits since 15 May 2017 have been to README.md, except for the inclusion of...
+* Trend Analysis was added __23 May 2017__
+* Torrents had a problem on June 11 after the popularity spike. “I guess that’s what you call one of them good problems.”
+* Added “Include Count List” to Rev 2 Tasklist.
+* Cleaned up README.md a bit
+
+#### 20 Jun 2017
+* Seedbox goes down, seedbox comes up
+* Seedbox now only supports .7z and .tar.gz formats
+* This will hopefully be more efficient
+
+#### 21 Jun 2017
+* Removed torrent files for .tar.xz and -LZMA.zip
+* README reflects this
+* Added 2 shoutouts, wykop.pl and the Security Now Podcast
+
+#### 22 Jun 2017
+* Added “Projects Using Probable-Wordlists” Section to README
+* Added ScullMW’s BUPW to this section
+
+#### 17 August 2017
+* Added all sorts of shoutouts since last Changelog
+* Pulled spmedia's 7-Character Fix to Repository-Hosted WPA-Lists.
+* Note that the 7-character fix does NOT apply to Rev 1.2 Files available in Megalinks or Torrents.
+* Updated README.md in the main, Real-Passwords and WPA-Length Directories
+
+
